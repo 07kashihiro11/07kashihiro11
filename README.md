@@ -17,4 +17,5 @@ Here are some ideas to get you started:
   <img alt = "TopLangs" height="150px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=07kashihiro11&layout=compact />
   <img alt = "Anurag's GitHub stats" height="150px" src=https://github-readme-stats.vercel.app/api?username=07kashihiro11&show_icons=true&theme=transparent />
 </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=07kashihiro11)](https://github.com/ryo-ma/github-profile-trophy)
